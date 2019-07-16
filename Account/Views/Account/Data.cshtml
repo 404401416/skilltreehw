@@ -13,13 +13,13 @@
     </tr>
 
     @{
-        int i = 1;
+      
         foreach (var Data in Model)
         {
 
         <tr>
 
-            <td>@(i++)</td>
+            <td>@Data.Number</td>
 
             <td>@Data.Type</td>
 

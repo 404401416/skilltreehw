@@ -81,3 +81,8 @@ C:\Users\Zach\source\repos\Account\Account\obj\Debug\Account.csproj.CoreCompileI
 C:\Users\Zach\source\repos\Account\Account\obj\Debug\Account.csproj.CopyComplete
 C:\Users\Zach\source\repos\Account\Account\obj\Debug\Account.dll
 C:\Users\Zach\source\repos\Account\Account\obj\Debug\Account.pdb
+C:\Users\Zach\source\repos\Account\Account\bin\EntityFramework.dll
+C:\Users\Zach\source\repos\Account\Account\bin\EntityFramework.SqlServer.dll
+C:\Users\Zach\source\repos\Account\Account\bin\EntityFramework.xml
+C:\Users\Zach\source\repos\Account\Account\bin\EntityFramework.SqlServer.xml
+C:\Users\Zach\source\repos\Account\Account\bin\zh-Hant\EntityFramework.resources.dll

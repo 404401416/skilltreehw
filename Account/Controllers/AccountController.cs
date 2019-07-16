@@ -32,11 +32,12 @@ namespace Account.Controllers
                 int randomtype = rdm.Next(1, 3);
                 var randomdatetime = DateTime.Now.AddDays(randomnumber);
                 int randommoney = rdm.Next(500, 3001);
-                display.Add(new ViewModels 
+                display.Add(new ViewModels
                 {
                     Type = (randomtype == 1) ? "收入" : "支出",
                     DateTime = randomdatetime,
                     Money = randommoney,
+                    Number = i,
                 });
             }
             return View(display);
